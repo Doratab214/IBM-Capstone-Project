@@ -1,2 +1,1 @@
-# IBM-Capstone-Project
-Classification Algorithm
+Compare Venues Construction of Neighborhoods from different cities Using FoursquareAPI
